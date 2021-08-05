@@ -1,0 +1,53 @@
+* { 
+    background-color:#bbdfea;
+    color:rgb(11, 27, 78)
+}
+*{
+    font-weight: normal;
+}
+*{
+    font-family:fantasy;
+}
+h1 {
+    font-weight: bold;
+}
+h1 {
+    color:h#5a069e;
+}
+h2 {
+    color:#79025f;
+    font-weight: bold;
+}
+h3 {
+    color:rgb(16, 153, 135);
+    font-style: oblique;
+    font-weight: bold;
+}
+.link {
+    font-style: italic;
+    font-size: 22;
+    color:mediumorchid;
+    font-variant: unset;
+    font-weight: lighter;
+}
+.note {
+    color:darkblue;
+    font-style:italic;
+}
+.name {
+    color:#631493;
+    font-style:oblique;
+    font-weight: lighter;
+}
+#different {
+    font-weight: bolder;
+}
+#list {
+    color:#0e0d89;
+    font-style: italic;
+    font-weight: bolder;
+}
+#depiction {
+    color:#571a8e;
+    font-weight:lighter;
+}
