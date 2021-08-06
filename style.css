@@ -26,12 +26,12 @@ h3 {
 .link {
     font-style: italic;
     font-size: 22;
-    color:mediumorchid;
+    color:#e960c0;
     font-variant: unset;
     font-weight: lighter;
 }
 .note {
-    color:darkblue;
+    color:rgb(21, 7, 141);
     font-style:italic;
 }
 .name {
@@ -50,4 +50,29 @@ h3 {
 #depiction {
     color:#571a8e;
     font-weight:lighter;
+}
+.flexbox {
+    background-color:#266dcaf0;
+    font-style: italic;
+    font-size: 22;
+    font-variant: unset;
+    font-weight: lighter;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 5px solid #631493;
+}
+#flexlink {
+    background-color:#266dcaf0;
+}
+.box{
+    height: 710px;
+    padding: 10px;
+    margin: 10px;
+}
+#prima {
+    border: 10px solid #523998;
+}
+#vector{
+    border: 10px solid #993d9c;
 }
