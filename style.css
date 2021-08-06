@@ -52,15 +52,9 @@ h3 {
     font-weight:lighter;
 }
 .flexbox {
-    background-color:#2c56a0f0;
-    font-style: italic;
-    font-size: 22;
-    font-variant: unset;
-    font-weight: lighter;
     display: flex;
     flex-direction: row;
     justify-content: center;
-    border: 5px solid #8fe98ff1;
 }
 #flexlink {
     background-color:#2c56a0f0;
